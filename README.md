@@ -69,14 +69,12 @@ processing-java --sketch=/path/to/GenerativeJewels \
 
 ## Gallery
 
-A handful of random seeds and their resulting jewels. Add your own favourites!
+Six freshly generated jewels—drop your own PNGs into `docs/examples/` and they’ll show up here.
 
-| Seed    | Preview                        |
-| ------- | ------------------------------ |
-| 8675309 | ![](docs/examples/8675309.png) |
-| 42      | ![](docs/examples/42.png)      |
-| 123456  | ![](docs/examples/123456.png)  |
-| 987654  | ![](docs/examples/987654.png)  |
+|                             |                             |                             |
+| --------------------------- | --------------------------- | --------------------------- |
+| ![](docs/examples/1-01.png) | ![](docs/examples/1-02.png) | ![](docs/examples/1-03.png) |
+| ![](docs/examples/1-04.png) | ![](docs/examples/1-05.png) | ![](docs/examples/1-06.png) |
 
 ## Roadmap
 
